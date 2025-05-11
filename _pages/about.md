@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second year master student from Department of Management, [Korea University Business School](https://biz.korea.ac.kr/main/main.html). My research interests include leadership, social identity, and social network.
+I'm a second-year master student in the Department of Management at [Korea University Business School](https://biz.korea.ac.kr/main/main.html). My research interests include leadership, social identity, and social networks.
 
 A data-driven personal website
 ======
